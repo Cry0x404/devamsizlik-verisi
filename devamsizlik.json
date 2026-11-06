@@ -1,9 +1,19 @@
 {
   "surum": 1,
-  "listede_olmayan_ozurlu_gun": 2,
+  "listede_olmayan_ozurlu_gun": 8,
   "kayitlar": [
-    { "tarih": "2026-10-07", "tur": "ozursuz", "gun": 1 },
-    { "tarih": "2026-10-05", "tur": "ozursuz", "gun": 1 },
+    { "tarih": "2026-11-04", "tur": "ozursuz", "gun": 1 },
+    { "tarih": "2026-10-29", "tur": "ozursuz", "gun": 0.5 },
+    { "tarih": "2026-10-27", "tur": "ozursuz", "gun": 1 },
+    { "tarih": "2026-10-26", "tur": "ozursuz", "gun": 1 },
+    { "tarih": "2026-10-19", "tur": "izinli", "gun": 1 },
+    { "tarih": "2026-10-16", "tur": "raporlu", "gun": 1 },
+    { "tarih": "2026-10-15", "tur": "ozursuz", "gun": 1 },
+    { "tarih": "2026-10-14", "tur": "raporlu", "gun": 1 },
+    { "tarih": "2026-10-12", "tur": "izinli", "gun": 1 },
+    { "tarih": "2026-10-09", "tur": "raporlu", "gun": 1 },
+    { "tarih": "2026-10-07", "tur": "izinli", "gun": 1 },
+    { "tarih": "2026-10-05", "tur": "izinli", "gun": 1 },
     { "tarih": "2026-09-28", "tur": "izinli", "gun": 1 },
     { "tarih": "2026-09-24", "tur": "raporlu", "gun": 1 }
   ]
